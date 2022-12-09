@@ -834,10 +834,10 @@ const filter = () => {
       list.innerHTML += `	<div class="d-block mx-1 my-1">
 														<div class="text-decoration-none px-3 py-2 d-flex align-items-center rounded">
                                                         <div class="quest"> 
-                                                            <b>SAVOL: </b>${icon.name} 
+                                                            <b>ВОПРОС: </b>${icon.name} 
                                                         </div>
                                                         <div class="asnwer">
-                                                            <b>JAVOB: </b>${icon.rightAnswer} 
+                                                            <b>ОТВЕТ: </b>${icon.rightAnswer} 
                                                         </div>
                                                         
                                                         
